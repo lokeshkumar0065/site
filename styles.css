@@ -1,0 +1,49 @@
+body
+{
+  background-color: #d2fafb;
+  font-family: cursive;
+}
+hr{
+
+  border-top-style: dotted;
+  border-bottom: 0;
+  border-width: thick;
+  border-color: grey;
+ width: 5%;
+}
+
+h1
+{
+  color: #116979;
+}
+h1:hover
+{
+  color: violet;
+}
+h3
+{
+  color: #116979;
+}
+h3:hover
+{
+  color:violet;
+}
+.sc1:hover
+{
+color: blue;
+}
+.sc2:hover{
+  color: blue;
+}
+.thead1:hover
+{
+  color:red;
+}
+.thead2:hover
+{
+  color:red;
+}
+.link:hover
+{
+  color:red;
+}
